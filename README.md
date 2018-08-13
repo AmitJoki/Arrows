@@ -53,6 +53,9 @@ You will be getting the output with high degree of accuracy and the classified l
 1. Integrate all these snippets into one coherent program.
 2. Use transfer-learning of Inception-V3 and train the model for more day-today activities.
 3. Use further machine learning and identify good images and leave the noisy images.
+4. For the video, a pair of glasses with a small camera attached to it is to be created from which the video feed will be obtained from.
+5. Furthermore, headsets can be designed into the glasses so that the voice output is given directly to their ears.
+
 
 ## Resources
 The image classification snippet is taken from Tensorflow's offical documentation to which I've made some few changes.
