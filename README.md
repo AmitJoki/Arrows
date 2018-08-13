@@ -1,7 +1,7 @@
 # Arrows
 An AI-ML Project that captures the images on the go via live video feed and classifies the image into labels using Inception-V3 pre-trained model along with Tensorflow. The video processing is done via OpenCV.
 
-The aim of this project is to aid visually challenged people to know more about their surroundings. The image after classfication is converted to voice through TTS (Text-To-Speech) so they c
+The aim of this project is to aid visually challenged people to know more about their surroundings. The image after classfication is converted to voice through TTS (Text-To-Speech) so they can know about their surroundings a bit better.
 
 ## Getting Started
 
