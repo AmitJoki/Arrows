@@ -5,7 +5,7 @@ The aim of this project is to aid visually challenged people to know more about 
 
 ## Getting Started
 
-Having a good internet connection is necessary and at least 200 MB of space for downloading the pre-trained Inception-V3 model.
+Please note that these are just initial modules for the time being. These have to be linked and made into one coherent piece of software which I plan to do if selected. Also Having a good internet connection is necessary and at least 200 MB of space for downloading the pre-trained Inception-V3 model.
 
 ### Prerequisites
 
